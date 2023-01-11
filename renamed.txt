@@ -1,18 +1,3 @@
 Modificado
 New line
 Another line
-One line more
-Edit
-
-Other line
-
-
-
-Edited first line
-
-
-Edited last line
-
-
-second local edit renamed
-/**commetn*/
